@@ -2,7 +2,7 @@
 ## Console Telefon Rehberi Uygulaması
 
 
-Yeni bir console uygulaması açarak telefon rehberi uygulaması yazınız. Uygulamada olması gereken özellikler aşağıdaki gibidir.
+Yeni bir console uygulaması açarak telefon rehberi uygulaması yazdım. Uygulamada olan özellikler aşağıdaki gibidir.
 
 
 1. Telefon Numarası Kaydet
